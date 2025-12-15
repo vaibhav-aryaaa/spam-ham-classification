@@ -77,7 +77,7 @@ To build a machine learning model that can accurately classify messages as **Spa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Spam-Ham-Word2Vec.git
+git clone https://github.com/vaibhav-aryaaa/Spam-Ham-Word2Vec.git
 
 2. Open the notebook.
 
